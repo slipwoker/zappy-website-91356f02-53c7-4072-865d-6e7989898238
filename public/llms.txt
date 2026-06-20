@@ -1,0 +1,102 @@
+# WearIt — Generative Engine Optimization Map
+
+> An exciting, high-energy football (soccer) themed online store with a bold and intense vibe. The user wants a 'crazy' and visually striking website that allows them to sell football-related products, suggesting a passion-driven sports commerce brand with strong visual impact and an energetic atmosphere aimed at football fans.
+
+---
+
+## Pages
+
+### בית
+https://wearit-91356f02.zappy5.app
+חנות כדורגל סוחפת עם חולצות כדורגל, נעליים ואביזרים שיעיפו לך את הראש. קפוץ עכשיו ללב האקשן והצטייד כמו אלוף אמיתי — WearIt
+
+### סיפור האוספים
+https://wearit-91356f02.zappy5.app/collections-story
+צלול לתוך עולם האוספים המטורפים שלנו — כל פריט מספר סיפור של תשוקה לכדורגל. בוא לחוות את האנרגיה שמאחורי כל קולקציה ייחודית — WearIt
+
+### אודות
+https://wearit-91356f02.zappy5.app/about
+הכירו את הנשמה הבלתי מתפשרת מאחורי WearIt — מותג ספורט אלקטרוני שנולד מהאהבה למשחק. גלו את החזון, התשוקה והטירוף שמניעים אותנו קדימה
+
+### צור קשר
+https://wearit-91356f02.zappy5.app/contact
+יש לך שאלה על חולצות כדורגל או רעיון מטורף? צור קשר עכשיו והצוות שלנו ייתן לך מענה מהיר כמו ספרינט על המגרש — WearIt
+
+### Products
+https://wearit-91356f02.zappy5.app/products
+המוצרים שלנו - WearIt
+
+### Cart
+https://wearit-91356f02.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://wearit-91356f02.zappy5.app/checkout
+תשלום
+
+### Login
+https://wearit-91356f02.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://wearit-91356f02.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://wearit-91356f02.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://wearit-91356f02.zappy5.app/product/:slug
+פרטי המוצר - WearIt
+
+### Category
+https://wearit-91356f02.zappy5.app/category/:slug
+מוצרים - WearIt
+
+## Legal & Policy
+
+### Privacy Policy
+https://wearit-91356f02.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://wearit-91356f02.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://wearit-91356f02.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About WearIt
+An exciting, high-energy football (soccer) themed online store with a bold and intense vibe. The user wants a 'crazy' and visually striking website that allows them to sell football-related products, suggesting a passion-driven sports commerce brand with strong visual impact and an energetic atmosphere aimed at football fans.
+
+## Target Audience
+- אוהדי כדורגל
+- אוהדי כדורגל מסורים
+- קבוצות נוער
+- שחקני פנאי
+- אוהדי כדורגל בינלאומיים
+
+## Industry
+Sports E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://wearit-91356f02.zappy5.app/sitemap.xml
+- Robots: https://wearit-91356f02.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://wearit-91356f02.zappy5.app/llms-full.txt
+- Products (JSON): https://wearit-91356f02.zappy5.app/products.json
+- Products (Google Merchant RSS): https://wearit-91356f02.zappy5.app/product-feed.xml
