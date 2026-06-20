@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://wearit-91356f02.zappy5.app
+https://example.com
 חנות כדורגל סוחפת עם חולצות כדורגל, נעליים ואביזרים שיעיפו לך את הראש. קפוץ עכשיו ללב האקשן והצטייד כמו אלוף אמיתי — WearIt
 
 ### סיפור האוספים
-https://wearit-91356f02.zappy5.app/collections-story
+https://example.com/collections-story
 צלול לתוך עולם האוספים המטורפים שלנו — כל פריט מספר סיפור של תשוקה לכדורגל. בוא לחוות את האנרגיה שמאחורי כל קולקציה ייחודית — WearIt
 
 ### אודות
-https://wearit-91356f02.zappy5.app/about
+https://example.com/about
 הכירו את הנשמה הבלתי מתפשרת מאחורי WearIt — מותג ספורט אלקטרוני שנולד מהאהבה למשחק. גלו את החזון, התשוקה והטירוף שמניעים אותנו קדימה
 
 ### צור קשר
-https://wearit-91356f02.zappy5.app/contact
+https://example.com/contact
 יש לך שאלה על חולצות כדורגל או רעיון מטורף? צור קשר עכשיו והצוות שלנו ייתן לך מענה מהיר כמו ספרינט על המגרש — WearIt
 
 ### Products
-https://wearit-91356f02.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - WearIt
 
 ### Cart
-https://wearit-91356f02.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://wearit-91356f02.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://wearit-91356f02.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://wearit-91356f02.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://wearit-91356f02.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://wearit-91356f02.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - WearIt
 
 ### Category
-https://wearit-91356f02.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - WearIt
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://wearit-91356f02.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://wearit-91356f02.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://wearit-91356f02.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -95,8 +95,8 @@ Sports E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://wearit-91356f02.zappy5.app/sitemap.xml
-- Robots: https://wearit-91356f02.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://wearit-91356f02.zappy5.app/llms-full.txt
-- Products (JSON): https://wearit-91356f02.zappy5.app/products.json
-- Products (Google Merchant RSS): https://wearit-91356f02.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
